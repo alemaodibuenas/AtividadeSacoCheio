@@ -1,0 +1,6 @@
+com\mycompany\crudarraylist\Service\FuncionarioService.class
+com\mycompany\crudarraylist\Pojo\PessoaPojo.class
+com\mycompany\crudarraylist\Principal.class
+com\mycompany\crudarraylist\Dao\FuncionarioDao.class
+com\mycompany\crudarraylist\FakeDB\FuncionarioFakeDB.class
+com\mycompany\crudarraylist\Pojo\FuncionarioPojo.class
